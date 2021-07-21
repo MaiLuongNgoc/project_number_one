@@ -283,16 +283,17 @@ body {
 
 .ending {
     display:block;
+    text-align: center;
+    justify-content: center;
     background-color: black;
     height: 100px;
     width: 100%;
-    margin-top: 20px;
+
 }
 
 .ending span{
-    display: inline-block;
-    justify-content: center;
+    
     color: white;
-    margin-top: 40px;
-    margin-left: 650px;
+    line-height: 100px;
+    
 }
